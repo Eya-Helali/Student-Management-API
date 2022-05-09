@@ -1,0 +1,7 @@
+server:
+  port: 8082
+sping:
+  data:
+    mongodb:
+      uri: mongodb://eya:eya@localhost:27017/testBase
+
